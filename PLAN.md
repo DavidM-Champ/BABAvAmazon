@@ -1,4 +1,4 @@
-Task 1. Business Understanding
+## Task 1. Business Understanding
 1.	Business Goals
 The ultimate goal is to determine which e-commerce stock is the best to invest in. Given the sheer amount of available stocks, I, as a sole proprietor business, have narrowed down the industry I want to invest in to e-commerce. That being said, there are various e-commerce stocks (specifically Amazon, Alibaba, and Shopify) to pick from, and thus data mining and data analysis must be used in order to determine which is the most appropriate stock to purchase in order to maximize the return on investment on the stock market.
 
@@ -17,7 +17,8 @@ Costs and benefits: The most that the project will cost is the cost of a single 
 
 3.	Data mining/analysis goals
 The ultimate goal is to have the earnings data organized in a reasonable manner (preferably in CSV files), and a model that can report the strongest correlations within data from the earnings and the price history.
-Task 2. Data Understanding
+
+## Task 2. Data Understanding
 •	Gathering Data
 Requirements: The necessary data will be all the data within the earning reports and cash flow statements of the aforementioned companies as well as their price histories.
 
