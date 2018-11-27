@@ -34,3 +34,12 @@ Not particularly relevant yet. Most of the project will be exploring the data it
 
 •	Verifying Quality
 As stated above: We are assuming that all the quarterly and yearly reports give us accurate numbers, as reporting wrongly is in violation of federal law and against the interests of both investors and the companies.
+
+## 3. Tasks to do:
+1. Organize the data from the quarterly reports into more compact tables that will be easier to read and work with.
+2. Run code in order to find correlations between items within the earnings reports and stock price.
+3. Determine importance of these correlations, and where exactly correlation could perhaps imply causation.
+4. Analyze macroeconomic factors such as trade wars and GDP statistics, visualizing them and correlating them if deemed appropriate.
+5. Set up price trackers for all of the stocks in order to track their performance from the moment the project starts to when the project ends.
+6. Set up news alerts for whenever any of these stocks is mentioned to keep an eye out for any press releases or important PR moves.
+7. Profit.
